@@ -9,9 +9,7 @@
  - :mag_right:  Активно изучаю веб-разработку, осваиваю новые технологии
  - :mortar_board: Выпускник Яндекс.Практикума
  - :memo: Создаю проекты, применяя БЭМ, ООП, адаптив, API, JavaScript, React, CSS, HTML
- - :eyes: Все проекты проходят ревью
  - :thumbsup: Хочу работать в хорошей команде с опытными коллегами, создавая реальные проекты
- - :grey_question: Хочу глубже вникнуть в работу React
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :muscle:  А пока повторяю, перечитываю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
  - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна%20(5).pdf)
