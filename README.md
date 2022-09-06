@@ -1,5 +1,4 @@
-## Привет, меня зовут Захар. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
-
+## Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>, меня зовут Захар. <img 
 
 ## :hammer: Языки и инструменты:
 <p>
