@@ -15,7 +15,6 @@
 
 ## :bar_chart: Статистика: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MenshikovZakhar&layout=compact)](https://github.com/MenshikovZakhar/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenshikovZakhar&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MenshikovZakhar&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenshikovZakhar&theme=github_dark)
