@@ -12,3 +12,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express" height="70">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="70">
 </p>
+
+## :trophy: Моя статистика:
+
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MenshikovZakhar)](https://github.com/MenshikovZakhar/github-readme-stats)
+</div>
+
