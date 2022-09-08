@@ -25,7 +25,7 @@
 </p>
 
 ## Связь со мной🔗
-* [Telegram](https://t.me/julik_r)
+* [Telegram](https://t.me/zm681986)
 * [GitHub](https://github.com/MenshikovZakhar)
 * email zm681986@mail.ru
 
