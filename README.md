@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="50">
 </p>
 
-## Связь со мной🔗
+## 🔗Связь со мной
 * [Telegram](https://t.me/zm681986)
 * [GitHub](https://github.com/MenshikovZakhar)
 * email zm681986@mail.ru
