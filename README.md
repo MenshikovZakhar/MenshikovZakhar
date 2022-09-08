@@ -27,7 +27,7 @@
 ## Связь со мной🔗
 * [Telegram](https://t.me/julik_r)
 * [GitHub](https://github.com/MenshikovZakhar)
-* Gmail julia.rulova0066@gmail.com
+* [email] (zm681986@mail.ru)
 
 ## :bar_chart: Статистика: 
 
