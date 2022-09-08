@@ -27,7 +27,7 @@
 ## Связь со мной🔗
 * [Telegram](https://t.me/julik_r)
 * [GitHub](https://github.com/MenshikovZakhar)
-* [email] (zm681986@mail.ru)
+* email zm681986@mail.ru
 
 ## :bar_chart: Статистика: 
 
