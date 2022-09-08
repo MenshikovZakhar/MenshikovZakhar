@@ -24,6 +24,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="50">
 </p>
 
+## Связь со мной🔗
+* [Telegram](https://t.me/julik_r)
+* [GitHub](https://github.com/MenshikovZakhar)
+* Gmail julia.rulova0066@gmail.com
+
 ## :bar_chart: Статистика: 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenshikovZakhar&theme=github_dark) 
